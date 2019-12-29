@@ -5,7 +5,7 @@ Research Methodologies in Humanities and Science course, final project: Replicat
 ### Study 7: Could a subtle Empathy-Capability Manipulation Reduce (Men's) Vengefulness?
 *by Max Dieckmann, Siwar Elghoul, Marina Estévez Almenzar, Olga Galí Pérez*
 
-Results obtained in this Study are shown in the Jupyter notebook [Tutorial.ipynb](https://github.com/ealmenzar/RMHS/blob/master/Tutorial.ipynb) and can be executed interactively in an executable environment with Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ealmenzar/RMHS/master?filepath=Tutorial.ipynb){:target="_blank"}
+Results obtained in this Study are shown in the Jupyter notebook [Tutorial.ipynb](https://github.com/ealmenzar/RMHS/blob/master/Tutorial.ipynb) and can be executed interactively in an executable environment with Binder: <a href="https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ealmenzar/RMHS/master?filepath=Tutorial.ipynb" target="_blank">![Binder](https://mybinder.org/badge_logo.svg)</a> 
 
 This work is an attempted reproduction of study 7 of the paper "Not So Innocent:  Does Seeing One’s Own Capability for Wrongdoing Predict Forgiveness?" The authors hypothesized that people are more willing to forgive an offender if they consider their own personal capability of committing a similar offense. They also proposed that men's vengefulness in particular can be reduced in this way.
 
