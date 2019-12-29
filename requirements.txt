@@ -1,5 +1,5 @@
 numpy>=1.16.0
-scipy.stats
+scipy>=1.1.0
 pandas
 statsmodels.formula.api
 statsmodels
