@@ -1,0 +1,8 @@
+numpy>=1.16.0
+scipy.stats
+pandas
+statsmodels.formula.api
+statsmodels
+statsmodels.api
+plotly.express
+plotly.graph_objects
