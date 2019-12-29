@@ -1,4 +1,4 @@
-# Research Methoodologies in Humanities and Science
+# Research Methodologies in Humanities and Science
 Research Methodologies in Humanities and Science course, final project: Replication of Study 7 by Exline, Baumeister, Zell, Kraft &amp; Witvliet (2008, Journal of Personality and Social Psychology)
 
 ## Original Study: "Not So Innocent: Does Seeing One’s Own Capability for Wrongdoing Predict Forgiveness?"
